@@ -1,0 +1,1 @@
+Versoft Software is a small group of developers aiming to create the OS [Free95](https://github.com/Versoft-Software/Free95) which plans to use a custom kernel and reimplement the windows API so windows apps can run on it.
